@@ -630,3 +630,10 @@ footer {
     padding: 20px; /* Espaciado interno del pie de página */
     text-align: center; /* Alineación del texto al centro */
   }
+strong {
+    color: #003158;
+    height: 100px;
+}
+li {
+    color: #004532;
+}
